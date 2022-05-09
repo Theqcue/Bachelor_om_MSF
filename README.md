@@ -25,3 +25,12 @@ RandomForest_Tredje_Iteration.py
 
 XGBoost_Tredje_Iteration.py
 - Indeholder XGBoost
+
+
+## Python Enviroment
+Alle Iterationsfilerne bliver kørt på baggrund af en plk fil, som bliver generaeret i filen: Datasamling_rengøring.py. Derfor skal denne fil kørest først. 
+Koden er blevet kørt igennem Anaconda enviroment, med python 3.7.11. Koden er blevet skrevet og testet i IDE Spyder.
+Python Enviroment: 
+Kode bliver kørt me Python 3.7.11
+Følgende pakker skal installeres: 
+pandas, seaborn, sklearn, imblearn, lime, tensorflow, keras, xgboost
